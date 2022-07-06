@@ -1,0 +1,1 @@
+Adjunto el archivo program1.s ya que en el mismo esta comentado el siguiemiento de todas las instrucciones y el valor que debera tener cada registro al finalizar la instruccion. 
